@@ -1,0 +1,7 @@
+{
+  "name": "Jellyfin Local",
+  "version": "1.0.0",
+  "description": "Jellyfin integration",
+  "author": "You",
+  "entry": "jellyfin-addon.js"
+}
