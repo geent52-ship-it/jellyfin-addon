@@ -1,4 +1,5 @@
 {
+  "id": "jellyfin.local.addon",
   "name": "Jellyfin Local",
   "version": "1.0.0",
   "description": "Jellyfin integration",
